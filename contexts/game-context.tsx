@@ -90,6 +90,9 @@ export interface PlayerProfile {
   hasCompletedSetup?: boolean
 }
 
+// Card back image for face-down cards
+export const CARD_BACK_IMAGE = "/images/cards/card-back.png"
+
 // Available profile icons
 export const PROFILE_ICONS = [
   { id: "hrotti", name: "Hrotti", image: "/images/icons/hrotti-icon.png" },
