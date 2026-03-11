@@ -5640,3 +5640,4 @@ const handleAllyUnitSelect = (index: number) => {
 }
 
 export default DuelScreen
+
