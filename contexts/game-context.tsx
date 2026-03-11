@@ -90,7 +90,7 @@ export interface PlayerProfile {
   hasCompletedSetup?: boolean
 }
 
-// Card back image for face-down cards
+// Card back image for face-down cards in duels
 export const CARD_BACK_IMAGE = "/images/cards/card-back.png"
 
 // Available profile icons
