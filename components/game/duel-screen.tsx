@@ -1,5 +1,6 @@
 "use client"
 
+// Duel screen component
 import type React from "react"
 import type { Deck as GameDeck, Card as GameCard } from "@/contexts/game-context"
 
